@@ -13,4 +13,4 @@ The MyEcommerce website interface design follows a similar layout and user exper
 
 Explore the interactive prototype of the MyEcommerce website <br>
 
-https://www.figma.com/proto/UtN6EGWt63BxA0jYCV7tOu/Untitled?type=design&node-id=2-5&t=IFwwG4sgdwoMHrXd-1&scaling=scale-down&page-id=0%3A1&mode=design
+https://www.figma.com/proto/UtN6EGWt63BxA0jYCV7tOu/Untitled?type=design&node-id=2-5&t=qF1Hma4ToXYyzlm7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5&mode=design
